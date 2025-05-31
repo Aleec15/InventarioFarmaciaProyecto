@@ -42,23 +42,12 @@ CREATE TABLE productos (
 );
 ```
 
-## ▶️ Ejecución
-
-1. Clona el repositorio o descomprime el ZIP.
-2. Abre el proyecto en NetBeans.
-3. Asegúrate de configurar correctamente la contraseña de MySQL en `ProductoDAO.java`.
-4. Ejecuta `MenuPrincipal.java` o ejecuta con Maven:
-   ```bash
-   mvn clean install
-   ```
-
 ## 📦 Funcionalidades Implementadas
 
 ✅ Registrar productos  
 ✅ Consultar inventario completo  
 ✅ Buscar producto por código de barras  
-✅ Vender productos (reduce stock)  
+✅ Vender productos  
 ✅ Actualizar precio  
 ✅ Eliminar productos  
-✅ Guardar/cargar desde archivo  
-✅ Interfaz gráfica con menús intuitivos
+✅ Interfaz gráfica con menús
