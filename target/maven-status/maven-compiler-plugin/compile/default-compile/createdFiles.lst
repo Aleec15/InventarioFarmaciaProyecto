@@ -1,0 +1,11 @@
+com\farmacia\gui\ActualizarPrecio.class
+com\farmacia\gui\BuscarProducto.class
+com\farmacia\gui\VenderProducto.class
+com\farmacia\gui\ConsultarInventario.class
+com\farmacia\gui\RegistrarProducto.class
+com\farmacia\inventariofarmaciaproyecto\InventarioFarmaciaProyecto.class
+com\farmacia\gui\EliminarProducto.class
+com\farmacia\gui\MenuPrincipal.class
+com\farmacia\dto\ProductoDTO.class
+com\farmacia\logica\InventarioFarmacia.class
+com\farmacia\dao\ProductoDAO.class
